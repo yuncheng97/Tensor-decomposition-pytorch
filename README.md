@@ -14,7 +14,7 @@ This is our course project of Matrix Analysis.
 - Dataset:
 We use the DogvsCat dataset provided by Kaggle competition. you can download in https://www.kaggle.com/c/dogs-vs-cats/overview
 
-  You should put the train set in the 'train' sub-filefolder and validation or test set in 'validation' sub-filefolder.
+  You should put the train set in the 'train' sub-filefolder and validation set in 'validation' sub-filefolder. If you want to do testing, put test set in 'test' sub-filefolder.
 - Training:
 ``python main.py --train --network [args.network] --model_path [args.model_path]``
 
